@@ -1,0 +1,67 @@
+body{
+    width:100vw;
+    overflow:hidden;
+  }
+  .playlist.active{
+    transform: translateX(0);
+  }
+
+
+  .playlist{
+    position:fixed;
+    left:0;
+    top:0;
+    min-height:100vh;
+    width:100%;
+    max-width:400px;
+    background-color:black;
+    color:#FFF;
+    transform: translateX(-100%);
+    transition:all 380ms ease-in-out;
+  }
+  
+  .list{
+    padding:1em;
+  }
+  
+  .open-button{
+    position: absolute;
+    bottom:0;
+    right:0;
+    transform:translateX(100%);
+  }
+
+
+
+  .playlist-left.active{
+    transform: translateX(0);
+    
+  }
+  .playlist-left{
+    position:fixed;
+    right:0;
+    top:0;
+    min-height:100vh;
+    width:100%;
+    max-width:400px;
+    background-color:black;
+    color:#FFF;
+    transform: translateX(100%);
+    transition:all 380ms ease-in-out;
+  }
+  
+  .list-left{
+    padding:1em;
+  }
+  
+  .open-button-left{
+    position: absolute;
+    bottom:0;
+    left:0;
+    transform:translateX(-100%);
+  }
+
+  .plays{
+       align-items: center;
+  }
+  
