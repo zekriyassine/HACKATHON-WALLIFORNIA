@@ -1,12 +1,13 @@
 import React from 'react';
 import ListePlays from './Components/ListePlays/index'
-import './App.css';
+import 'App.css';
+import VideoScreen from './Components/VideoScreen'
 
-function App() {
+function App(){
   return (
-    <div>
-      
-      <ListePlays/>
+    <div> 
+      <ListePlays />
+      <VideoScreen />
     </div>
   );
 }
