@@ -1,21 +1,26 @@
-.container-1 {
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container-1 .item{
     width: 100%;
     border: 5px;
 }
 
-.container-2 {
+.container-2 .item{
     width: 50%;
     border: 5px;
 
 }
 
-.container-3 {
+.container-3 .item{
     width: 33%;
     border: 5px;
 
 }
 
-.container-4 {
+.container-4 .item{
     width: 50%;
     border: 5px;
 

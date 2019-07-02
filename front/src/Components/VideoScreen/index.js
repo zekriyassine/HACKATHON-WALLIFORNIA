@@ -11,7 +11,10 @@ class VideoScreen extends React.Component {
 
     return (
 
-        <div className={`container-${numUser}`}></div>
+        <div className={`container container-${numUser}`}>
+        
+            <div className="item"></div>
+        </div>
     )
     }
 }
