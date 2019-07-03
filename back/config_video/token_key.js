@@ -12,7 +12,7 @@ const identity = 'user';
 
 // Create Video Grant
 const videoGrant = new VideoGrant({
-  room: 'cool room',
+  room: 'video_call',
 });
 
 // Create an access token which we will sign and return to the client,
@@ -23,3 +23,5 @@ token.identity = identity;
 
 // Serialize the token to a JWT string
 console.log(token.toJwt());
+
+module.exports = token.toJwt()

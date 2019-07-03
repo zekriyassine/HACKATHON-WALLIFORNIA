@@ -1,0 +1,679 @@
+
+{
+    "type": "playlist",
+    "id": "4e64cc30-c7e7-4b31-826e-01ede1adec5c",
+    "href": "https://api.winamp.com/v1/playlists/index.cfm?playlistuid=4e64cc30-c7e7-4b31-826e-01ede1adec5c",
+    "data": {
+      "name": "MusicTech Jamendo Selection",
+      "description": "Jamendo selection for people working hard on the Winamp challenge"
+    },
+    "relationships": {
+      "tracks": {
+        "items": [
+        
+        
+          
+          {
+            "type": "track",
+            "id": "1188837",
+            "data": {
+              "name": "Skibidubap",
+              "duration": 127000,
+              "file": "https://api.winamp.com/storage/1188837.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1188/1188837/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/P/Potta.jpg?t=1421115617",
+                "data": {
+                  "name": "Potta la motta"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1253152",
+            "data": {
+              "name": "HALLELUYAH",
+              "duration": 139000,
+              "file": "https://api.winamp.com/storage/1253152.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1253/1253152/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s426/426622/covers/1.200.jpg?t=1452636087",
+                "data": {
+                  "name": "Amillion"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "802183",
+            "data": {
+              "name": "Visa Race",
+              "duration": 240000,
+              "file": "https://api.winamp.com/storage/802183.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s8021/802183/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "93869",
+                "img": "https://cdn-img.jamendo.com/albums/s938/93869/covers/1.300.jpg",
+                "data": {
+                  "name": "The Substance Affair"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s359/359034/covers/1.200.jpg?t=1452207174",
+                "data": {
+                  "name": "Anitek"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1374341",
+            "data": {
+              "name": "Breakbeat Sport Rhythm",
+              "duration": 128000,
+              "file": "https://api.winamp.com/storage/1374341.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1374/1374341/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s490/490586/covers/1.200.jpg?t=1465068189",
+                "data": {
+                  "name": "JiltedG"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1639570",
+            "data": {
+              "name": "Laidback Vibes",
+              "duration": 157000,
+              "file": "https://api.winamp.com/storage/1639570.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1639/1639570/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/T/The_ARTISANS.jpg?t=1426404670",
+                "data": {
+                  "name": "The ARTISANS Beats"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1417288",
+            "data": {
+              "name": "Intercept",
+              "duration": 252000,
+              "file": "https://api.winamp.com/storage/1417288.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1417/1417288/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "165416",
+                "img": "https://cdn-img.jamendo.com/albums/s165/165416/covers/1.300.jpg",
+                "data": {
+                  "name": "Away from the Neon City"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "",
+                "data": {
+                  "name": "Miami Sheriff"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1234074",
+            "data": {
+              "name": "Sucker Punch",
+              "duration": 191000,
+              "file": "https://api.winamp.com/storage/1234074.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1234/1234074/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/T/The_ARTISANS.jpg?t=1426404670",
+                "data": {
+                  "name": "The ARTISANS Beats"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "768443",
+            "data": {
+              "name": "Mr. Monster Man",
+              "duration": 151000,
+              "file": "https://api.winamp.com/storage/768443.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s7684/768443/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "90022",
+                "img": "https://cdn-img.jamendo.com/albums/s900/90022/covers/1.300.jpg",
+                "data": {
+                  "name": "Anitek Instrumentals Vol. 8"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s359/359034/covers/1.200.jpg?t=1452207174",
+                "data": {
+                  "name": "Anitek"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1446855",
+            "data": {
+              "name": "Dubstep Energetic Sport",
+              "duration": 96000,
+              "file": "https://api.winamp.com/storage/1446855.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1446/1446855/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s498/498010/covers/1.200.jpg?t=1506153609",
+                "data": {
+                  "name": "Bulbasound"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1348470",
+            "data": {
+              "name": "Jazz (Street Beat)",
+              "duration": 230000,
+              "file": "https://api.winamp.com/storage/1348470.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1348/1348470/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "159111",
+                "img": "https://cdn-img.jamendo.com/albums/s159/159111/covers/1.300.jpg",
+                "data": {
+                  "name": "Beats That Collected Dust"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s490/490066/covers/1.200.jpg?t=1520253128",
+                "data": {
+                  "name": "Brotha D"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1353292",
+            "data": {
+              "name": "Looking Around",
+              "duration": 168000,
+              "file": "https://api.winamp.com/storage/1353292.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1353/1353292/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "159543",
+                "img": "https://cdn-img.jamendo.com/albums/s159/159543/covers/1.300.jpg",
+                "data": {
+                  "name": "Deep Instrumentals Vol. 2"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s490/490858/covers/1.200.jpg?t=1467122164",
+                "data": {
+                  "name": "Soulful-Cafe"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1621037",
+            "data": {
+              "name": "Fashion House",
+              "duration": 170000,
+              "file": "https://api.winamp.com/storage/1621037.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1621/1621037/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s513/513030/covers/1.200.jpg?t=1541411760",
+                "data": {
+                  "name": "BerryDeep"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1585861",
+            "data": {
+              "name": "Summer Chill",
+              "duration": 173000,
+              "file": "https://api.winamp.com/storage/1585861.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1585/1585861/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/T/The_ARTISANS.jpg?t=1426404670",
+                "data": {
+                  "name": "The ARTISANS Beats"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1631402",
+            "data": {
+              "name": "Los Angeles",
+              "duration": 127000,
+              "file": "https://api.winamp.com/storage/1631402.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1631/1631402/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s472/472415/covers/1.200.jpg?t=1539888682",
+                "data": {
+                  "name": "Muza Production"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1248249",
+            "data": {
+              "name": "Back To Me (Tab & Anitek)",
+              "duration": 142000,
+              "file": "https://api.winamp.com/storage/1248249.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1248/1248249/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "149485",
+                "img": "https://cdn-img.jamendo.com/albums/s149/149485/covers/1.300.jpg",
+                "data": {
+                  "name": "Luna"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s359/359034/covers/1.200.jpg?t=1452207174",
+                "data": {
+                  "name": "Anitek"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1115108",
+            "data": {
+              "name": "The InBetween (prod.Anitek){feat.ElleRose}",
+              "duration": 188000,
+              "file": "https://api.winamp.com/storage/1115108.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1115/1115108/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "133276",
+                "img": "https://cdn-img.jamendo.com/albums/s133/133276/covers/1.300.jpg",
+                "data": {
+                  "name": "Dead Poets: The Village Idiots"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/T/Tab.jpg",
+                "data": {
+                  "name": "Tab"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "659889",
+            "data": {
+              "name": "Vapor Diving",
+              "duration": 164000,
+              "file": "https://api.winamp.com/storage/659889.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s6598/659889/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                
+                "type": "album",
+                "id": "76553",
+                "img": "https://cdn-img.jamendo.com/albums/s765/76553/covers/1.300.jpg",
+                "data": {
+                  "name": "Anitek Instrumentals Vol. 6"
+                }  
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s359/359034/covers/1.200.jpg?t=1452207174",
+                "data": {
+                  "name": "Anitek"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1432606",
+            "data": {
+              "name": "Wind Rises",
+              "duration": 201000,
+              "file": "https://api.winamp.com/storage/1432606.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1432/1432606/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s498/498429/covers/1.200.jpg?t=1489748603",
+                "data": {
+                  "name": "Amoebacrew"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1549775",
+            "data": {
+              "name": "You Alright",
+              "duration": 160000,
+              "file": "https://api.winamp.com/storage/1549775.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1549/1549775/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s502/502831/covers/1.200.jpg?t=1504446985",
+                "data": {
+                  "name": "Major Hawk"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1468406",
+            "data": {
+              "name": "Lounge Bar",
+              "duration": 182000,
+              "file": "https://api.winamp.com/storage/1468406.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1468/1468406/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s502/502128/covers/1.200.jpg?t=1501631413",
+                "data": {
+                  "name": "Oper-8"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1493736",
+            "data": {
+              "name": "Aftermath",
+              "duration": 232000,
+              "file": "https://api.winamp.com/storage/1493736.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1493/1493736/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/T/The_ARTISANS.jpg?t=1426404670",
+                "data": {
+                  "name": "The ARTISANS Beats"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1499379",
+            "data": {
+              "name": "Straight Chillin' (Prod. by Jeo7)",
+              "duration": 177000,
+              "file": "https://api.winamp.com/storage/1499379.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1499/1499379/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "",
+                "data": {
+                  "name": "Mindfull"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1605652",
+            "data": {
+              "name": "A Game (Clean Version)",
+              "duration": 167000,
+              "file": "https://api.winamp.com/storage/1605652.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1605/1605652/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "",
+                "data": {
+                  "name": "LY"
+                }
+              }
+            }
+          }, 
+          
+          {
+            "type": "track",
+            "id": "1610060",
+            "data": {
+              "name": "Halloween Synth Pop",
+              "duration": 162000,
+              "file": "https://api.winamp.com/storage/1610060.mp3",
+              "img": "https://cdn-img.jamendo.com/track/s1610/1610060/covers/1.300.jpg"
+            },
+            "relationships": {
+              "album": {
+                  
+                
+              },
+              "artist": {
+                "type": "artist",
+                "id": "666eea77-e770-46ec-afd7-ed7995a84cfc",
+                "img": "https://cdn-img.jamendo.com/artists/s475/475747/covers/1.200.jpg?t=1519631887",
+                "data": {
+                  "name": "Abydos Music"
+                }
+              }
+            }
+          }   
+        ],
+        "limit": 24,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 24
+      }
+    }
+  }
