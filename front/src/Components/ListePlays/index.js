@@ -1,9 +1,9 @@
 import React from 'react';
-import axios from 'axios';
-
+import WebcamCapture from '../webcam/index'
 import './index.css';
 import playlist from '../../playlist.json';
-import io from 'socket.io-client'
+import io from 'socket.io-client';
+import { NavLink } from 'react-router-dom';
 const socket = io(`http://localhost:8000`);
 
 
@@ -104,11 +104,12 @@ class ListePlays extends React.Component {
         <div className={"playlist-left " + (this.state.rightPanel ? "active" : "")}>
           <button onClick={() => this.listChange('rightPanel')} className="open-button-left">open</button>
           <ul className="list_left">
-            <li className="list-item-left">song 1</li>
-            <li className="list-item-left">song 2</li>
-            <li className="list-item-left">song 3</li>
-            <li className="list-item-left">song 4</li>
-            <li className="list-item-left">song 5</li>
+          <li className="list-item-left">
+            <NavLink>
+              <WebcamCapture/>
+              </NavLink>
+              </li>
+
           </ul>
         </div>
 

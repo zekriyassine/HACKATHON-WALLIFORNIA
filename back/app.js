@@ -63,6 +63,20 @@ io.listen(port);
 console.log('listening on port ', port);;
 
 
+   socket.on('test', (test) => {
+       console.log('test', test)
+       io.emit("test",test)
+   })
+ 
+
+ const server = app.listen( process.env.PORT  ||  4000, function(){
+  console.log('Listening on port '  +  server.address().port);
+});
+
+io.listen(port);
+console.log('listening on port ', port);;
+
+
 
 
 
