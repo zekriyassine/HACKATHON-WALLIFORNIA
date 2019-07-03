@@ -63,10 +63,6 @@ io.listen(port);
 console.log('listening on port ', port);;
 
 
- const server = app.listen( process.env.PORT  ||  4000, function(){
-    console.log('Listening on port '  +  server.address().port);
-});
-
 
 
 
