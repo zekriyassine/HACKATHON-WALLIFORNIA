@@ -1,6 +1,7 @@
 body{
     width:100vw;
     overflow:hidden;
+    
   }
   .playlist.active{
     transform: translateX(0);
@@ -89,9 +90,4 @@ body{
       align-items: center;
       transform: translate(-50%);
       margin-bottom: 10px;
-      
-      
-      
-
   }
-  
